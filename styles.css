@@ -1,0 +1,23 @@
+#container {
+  max-width: 80%;
+  margin: 0 auto;
+}
+footer {
+  max-width: 80%;
+  background-color: lightgray;
+  margin-top: 20px auto;
+  }
+.footer {
+  font-size: 10px;
+  font-family: arial;
+  color: gray;
+}
+.parrafo {
+  font-size: 14px;
+  font-family: arial;
+  color: black;
+}
+h1, h2 {
+  font-family: arial;
+  color: darkgray;
+}
