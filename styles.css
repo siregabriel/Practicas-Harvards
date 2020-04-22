@@ -6,10 +6,10 @@ header, nav, section, footer {
   max-width: 80%;
   margin: auto;
   padding: 5px;
+  font-family: arial;
 }
 .footer {
   font-size: 10px;
-  font-family: arial;
   color: black;
   padding: 5px;
   text-align: center;
@@ -35,7 +35,6 @@ ul li a {
 input[type=text], input[type=radio], input[type=password] {
   background-color: lightgray;
   color: black;
-  font-weight: bold;
-  padding: 3px;
+  padding: 5px;
   border: 1px solid gray;
 }
