@@ -42,3 +42,9 @@ input[type=text], input[type=radio], input[type=password] {
   padding: 5px;
   border: 1px solid gray;
 }
+
+/*clases SUDO*/
+a::before {
+  content: "Hacer click";
+  font-style: italic;
+}
