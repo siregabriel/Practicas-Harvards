@@ -10,13 +10,13 @@
 }
 footer {
   max-width: 80%;
-  background-color: lightgray;
   margin-top: 20px auto;
   }
 .footer {
   font-size: 10px;
   font-family: arial;
-  color: gray;
+  color: black;
+  padding: 5px;
 }
 .parrafo {
   font-size: 14px;
