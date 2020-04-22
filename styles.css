@@ -24,7 +24,7 @@ h1, h2 {
   color: black;
   text-align: center;
 }
-.main-menu {
+ul.main-menu {
   text-align: center;
 }
 ul li {
