@@ -5,15 +5,18 @@
 
 header {
   max-width: 80%;
-  margin: 5px 0 auto;
+  margin: auto;
+  padding: 5px;
 }
 nav {
   max-width: 80%;
-  margin: 5px 0 auto;
+  margin: auto;
+  padding: 5px;
 }
 section {
   max-width: 80%;
-  margin: 5px 0 auto;
+  margin: auto;
+  padding: 5px;
 }
 footer {
   max-width: 80%;
