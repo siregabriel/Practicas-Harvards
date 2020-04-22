@@ -61,7 +61,7 @@ p::selection {
 }
 @media (min-width:400px;) {
   h1::before {
-    content: "Bienido a nuestra pagina corporativa de Aames Publishing";
+    content: "Bienvenido a nuestra pagina corporativa de Aames Publishing";
   }
 }
 @media (max-width: 499px) {
