@@ -46,6 +46,17 @@ input[type=text], input[type=radio], input[type=password], input [list] {
   text-align: center;
   padding-top: 10px;
 }
+.flex-container{
+  display: flex;
+  flex-wrap: wrap;
+}
+.flex-container > div {
+  background-color: yellow;
+  font-size: 14px;
+  margin: 20px;
+  padding: 20px;
+  width: 20px;
+}
 
 /*clases SUDO*/
 a::before {
