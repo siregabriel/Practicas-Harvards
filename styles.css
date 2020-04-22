@@ -63,7 +63,7 @@ p::selection {
     display: none;
   }
 }
-@media (min-width:400px;) {
+@media (min-width:500px) {
   h1::before {
     content: "Bienvenido a nuestra página corporativa de Aames Publishing";
   }
