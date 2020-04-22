@@ -48,3 +48,7 @@ a::before {
   content: "  | Hacer click";
   font-style: italic;
 }
+p::selection {
+  background-color: yellow;
+  color: red;
+}
