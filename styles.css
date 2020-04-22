@@ -1,27 +1,13 @@
 
 
-/*estilos para mi proyecto*/
+/*estilos para mi proyecto0*/
 
-
-header {
+header, nav, section, footer {
   max-width: 80%;
   margin: auto;
   padding: 5px;
+  border: 1px solid gray;
 }
-nav {
-  max-width: 80%;
-  margin: auto;
-  padding: 5px;
-}
-section {
-  max-width: 80%;
-  margin: auto;
-  padding: 5px;
-}
-footer {
-  max-width: 80%;
-  margin-top: 20px auto;
-  }
 .footer {
   font-size: 10px;
   font-family: arial;
