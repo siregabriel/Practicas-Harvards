@@ -45,6 +45,6 @@ input[type=text], input[type=radio], input[type=password] {
 
 /*clases SUDO*/
 a::before {
-  content: "Hacer click";
+  content: "  | Hacer click";
   font-style: italic;
 }
