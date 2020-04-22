@@ -52,3 +52,10 @@ p::selection {
   background-color: yellow;
   color: red;
 }
+
+/* viewports */
+@media print {
+  .no-se-imprime {
+    display: none;
+  }
+}
