@@ -24,6 +24,9 @@ h1, h2 {
   color: black;
   text-align: center;
 }
+ul.main-menu {
+  text-align: center;
+}
 ul li {
   font-family: arial;
   font-size: 12px;
@@ -31,6 +34,7 @@ ul li {
 }
 ul li a {
   padding-left: 5px;
+  font-size: 18px;
 }
 input[type=text], input[type=radio], input[type=password] {
   background-color: lightgray;
