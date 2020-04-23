@@ -1,13 +1,16 @@
 /*estilos en formato SASS*/
 
 $color: red;
+$fuente: verdana;
 
 ul {
   font-size: 14px;
   color: $color;
+  font-family: $fuente;
 }
 
 ol {
   font-size: 18px;
   color: $color;
+  font-family: $fuente;
 }

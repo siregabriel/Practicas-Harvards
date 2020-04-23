@@ -1,0 +1,13 @@
+/*estilos en formato SASS*/
+ul {
+  font-size: 14px;
+  color: red;
+  font-family: verdana;
+}
+
+ol {
+  font-size: 18px;
+  color: red;
+  font-family: verdana;
+}
+/*# sourceMappingURL=variables.css.map */
