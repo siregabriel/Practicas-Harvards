@@ -1,12 +1,12 @@
 /*estilos en formato SASS*/
-ul {
-  font-size: 14px;
+ul li {
+  font-size: 20px;
   color: red;
   font-family: verdana;
 }
 
 ol {
-  font-size: 18px;
+  font-size: 20px;
   color: red;
   font-family: verdana;
 }

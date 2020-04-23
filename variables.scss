@@ -2,15 +2,16 @@
 
 $color: red;
 $fuente: verdana;
+$tamano: 20px;
 
-ul {
-  font-size: 14px;
+ul li{
+  font-size: $tamano;
   color: $color;
   font-family: $fuente;
 }
 
 ol {
-  font-size: 18px;
+  font-size: $tamano;
   color: $color;
   font-family: $fuente;
 }
