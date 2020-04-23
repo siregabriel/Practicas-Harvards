@@ -1,8 +1,12 @@
 /*estilos en formato SASS*/
+/*2020 Gabriel Rosales Communications Mexico*/
 
+/*variables*/
 $color: red;
 $fuente: verdana;
 $tamano: 20px;
+$centrado: center;
+/*variables*/
 
 ul li{
   font-size: $tamano;
@@ -14,4 +18,9 @@ ol {
   font-size: $tamano;
   color: $color;
   font-family: $fuente;
+}
+.main-menu {
+  font-size: $tamano;
+  color: $color;
+  text-align: $centrado;
 }
