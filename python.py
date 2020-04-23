@@ -1,6 +1,9 @@
+nombre_hijo = "Liam"
 #name = input() <<<VARIABLE
 #print("GabrielR Systems 3.2") <<<SOLO POR ADORNARME
 #print(f"Hola, {name}")<<<FUNCION
+
+print(nombre_hijo) #<<< OJO no debe de llevar comas para mostrarse
 
 i = 28
 print(f"f is {i}")
@@ -19,9 +22,9 @@ elif x < 28:
 else:
     print("x is zero")
 
-name ="Alice"
+nombre = "Alicia"
+name = "Alice"
 name[2]
 #esto de arriba cuenta e imprime la SEGUNDA LETRA de "Alice"
 coordinates = (10, 19.8)
-coordinates [2]
-#esto de arriba cuenta e imprime la SEGUNDA COORDENADAS
+coordinates[1]
