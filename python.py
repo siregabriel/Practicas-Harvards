@@ -24,4 +24,4 @@ name[2]
 #esto de arriba cuenta e imprime la SEGUNDA LETRA de "Alice"
 coordinates = (10, 19.8)
 coordinates [2]
-#esto de arriba cuenta e imprime la SEGUNDA COORDENADA
+#esto de arriba cuenta e imprime la SEGUNDA COORDENADAS
