@@ -6,6 +6,11 @@ ul li {
   font-size: 20px;
   color: red;
   font-family: verdana;
+  display: inline;
+}
+
+ul li a {
+  padding-left: 10px;
 }
 
 ol {
@@ -14,7 +19,7 @@ ol {
   font-family: verdana;
 }
 
-.main-menu li a {
+.main-menu {
   font-size: 20px;
   color: red;
   text-align: center;

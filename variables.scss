@@ -6,12 +6,17 @@ $color: red;
 $fuente: verdana;
 $tamano: 20px;
 $centrado: center;
+$en_linea: inline; 
 /*variables*/
 
 ul li{
   font-size: $tamano;
   color: $color;
   font-family: $fuente;
+  display: $en_linea
+}
+ul li a {
+  padding-left: 10px;
 }
 
 ol {
